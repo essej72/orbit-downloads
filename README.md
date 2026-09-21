@@ -1,3 +1,5 @@
+> **Security report under investigation:** A tester reported antivirus quarantine of Orbit 0.11.2. Pause testing while the exact detection and affected file are reviewed. Keep blocked files quarantined; do not disable antivirus or add exclusions. The downloadable files have not been replaced or declared fixed.
+
 # Orbit for Windows — tester preview
 
 Orbit brings a supported iPhone into a Windows workspace, with a movable phone view, mouse controls and automatic keyboard input where the connection supports them.
@@ -31,3 +33,4 @@ For first-time viewing with no cable, select **Cable-free viewing** and use the 
 The app includes privacy details, versioned release notes and dependency notices. The matching source bundle for the redistributed AirPlay receiver is attached to the release.
 
 For useful feedback, report your Windows version, iPhone/iOS version, connection method and steps that caused the issue. Orbit can export diagnostics that omit phone content and device addresses; review anything you share. Do not post pairing files, account credentials or private phone screenshots.
+
